@@ -1,0 +1,9 @@
+.whiteout{
+    background: rgba(248, 249, 250, 0.4);   
+}
+
+.contactIMG {
+    max-height: 300px;
+    max-width: 300px;
+    border-radius: 70%;
+}
